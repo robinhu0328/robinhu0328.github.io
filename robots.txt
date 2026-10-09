@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Publicly reachable staging exposes page-level noindex; host access control is still required.
+Sitemap: https://robinhu0328.github.io/sitemap-index.xml
